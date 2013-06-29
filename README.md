@@ -16,6 +16,8 @@ Feel free to fork & and pull request or make suggestions!
 	* [__Design and Build Email Newsletters Without Losing Your Mind (and Soul)__](http://www.smashingmagazine.com/2010/01/19/design-and-build-an-email-newsletter-without-losing-your-mind/):  information you need to plan, design and build an HTML newsletter that renders well
 	* [__Email Marketing Field Guide (Mailchimp)__](http://mailchimp.com/resources/guides/email-marketing-field-guide/html/)
 	* [__8 HTML Email Tips I Wish I’d Known Sooner__](http://mattmedia.net/2007/08/23/8-html-email-tips-i-wish-i-knew-sooner/)
+	* [The Ultimate Guide](http://www.campaignmonitor.com/css/): From Campaign Monitor
 	
 * Testing
 	* [__Email on Acid__](http://www.emailonacid.com/): Free and paid testing
+	* [__Litmus__](http://litmus.com/)
